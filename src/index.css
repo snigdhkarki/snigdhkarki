@@ -1,0 +1,285 @@
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'),
+    url(./Roboto-Black.ttf) format('truetype');
+    
+  }
+.all{
+    height:100vh;
+   
+    font-family: 'Roboto';
+
+    
+    
+    
+}
+
+.button{
+    border-radius: 10px;
+    color:#E5E7EB;
+    font-weight: 700;
+    
+    
+}
+.button1{
+    border: 3px solid #EFE7EB;
+}
+.action .side{
+    gap:5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    display:flex;
+    background-color: #1F2937;
+    padding: 30px 350px;
+    
+
+
+
+}
+.header .logo{
+    
+    font-size: 24px;
+    color:#F9FAF8;
+    font-weight: 700;   
+}
+
+.header .link{
+    gap:30px;
+    font-size: 18px;
+    color:#E5E7EB;
+    display: flex;
+    
+    
+    margin-left: auto;
+
+}
+.top{
+    display:flex;
+    height:672px;
+    background-color: #1F2937;
+    gap:70px;
+    justify-content: center;
+
+
+
+}
+.top .right {
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    padding-right: 0px;
+
+
+
+}
+.top .left{
+    flex-grow: 0;
+    padding-left: 350px;
+    padding-right:60px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.images{
+    display: flex;
+    justify-content: center;
+    gap:71px;
+    font-size: 23px;
+
+}
+.bottom{
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    background-color: #EFE7EB ;
+    padding-left: 525px;
+    padding-right: 525px;
+    padding-top: 210px;
+    padding-bottom: 210px;
+
+}
+.verybottom{
+    padding:160px 340px;
+}
+.action{
+    background-color: #3882F6;
+    padding:80px 160px;
+    display: flex;
+    border-radius: 10px;
+    justify-content: space-between;
+
+
+}
+.action .upper{
+    font-size: 30px;
+    color: #F9FAF8;
+    font-weight: 700;
+}
+.action .lower{
+    font-size:20px;
+    
+    color: #E5E7EB;
+}
+.belbut{
+    width:180px;
+}
+.button1{
+    width:180px;
+    background-color: #3882F6;
+    font-size: 30px;
+    font-weight: 700;
+    color: #EFE7EB;
+    border-radius: 12px;
+    border-color: #E5E7EB;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+}
+.name{
+    text-align: right;
+    font-weight: 700;
+    font-style: none;
+    font-size: 24px;
+}
+.mid{
+    padding-left: 525px;
+    padding-right: 525px;
+    padding-bottom: 150px;
+   
+}
+.images img{
+    width:155px;
+    height: 155px;
+    border-radius: 20px;
+}
+.images div{
+    width: 155px;
+    
+    
+}
+.images .lol{
+    border: 3px solid blue;
+    border-radius: 20px;
+    width:155px;
+    height: 155px;
+    margin-bottom: 10px;
+
+    
+}
+.mid .topic{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    padding-top:54px;
+    padding-bottom:54px;
+
+}
+.top .left .big{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 1000;
+    margin-bottom: 20px;
+}
+.top .right .img{
+    margin-right: 0px;
+    height:336px;
+    padding-right: 350px;
+    
+    
+}
+.brag{
+    color: red;
+    font-weight: 700;
+}
+.top .left .long{
+    font-size: 25px;
+    color:#E5E7EB;
+    margin-bottom: 20px;
+
+}
+.button{
+    background-color: #3882F6;
+    font-size: 20px;
+    padding:13px 100px;
+}
+.link .button{
+    background-color: #3882F6;
+    font-size: 32px;
+    padding:13px 35px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.bt2main{
+    border: 5px;
+    padding-left: 350px;
+    padding-right: 350px ;
+
+}
+.bt2main img{
+    object-fit: cover;
+}
+.bt2main{
+    background-image: url('backmm.webp');
+    height: 100vh;
+}
+.listmain{
+    font-size: 25px;
+}
+
+.bt2sub{
+    border: 5px;
+    padding-top: 40px;
+    padding-left: 40px;
+    font-size: 30px;
+    background-color: bisque;
+    padding-bottom: 40px;
+    
+
+}
+.telkodhup{
+    color: bisque;
+}
+
+form {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 100%;
+    font-size: 25px;
+    
+    }
+    input {
+        width: 880px;
+        height: 35px;
+        padding: 7px;
+        outline: none;
+        border-radius: 5px;
+        border: 1px solid rgb(220, 220, 220);
+    }
+    textarea {
+        
+        width: 880px;
+        max-height: 100px;
+        min-height: 100px;
+        padding: 7px;
+        outline: none;
+        border-radius: 5px;
+        border: 1px solid rgb(220, 220, 220);
+        
+      }
+      label {
+        margin-top: 1rem;
+      }
+      input[type="submit"] {
+        margin-top: 2rem;
+        cursor: pointer;
+        background: rgb(249, 105, 14);
+        color: white;
+        border: none;
+        font-size: 20px;
+      }
