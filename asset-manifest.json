@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/snigdhkarki/static/css/main.a9fbed36.css",
+    "main.js": "/snigdhkarki/static/js/main.2cb9848b.js",
+    "static/media/sni.jpg": "/snigdhkarki/static/media/sni.9fd3fac0f115e133a2f0.jpg",
+    "static/media/Roboto-Black.ttf": "/snigdhkarki/static/media/Roboto-Black.45715786ed948b799cf8.ttf",
+    "static/media/backmm.webp": "/snigdhkarki/static/media/backmm.57ce279cb04d23ab2a7e.webp",
+    "static/media/hcjr.jpg": "/snigdhkarki/static/media/hcjr.dce03e03df1ccd6e01c1.jpg",
+    "static/media/pysql.png": "/snigdhkarki/static/media/pysql.d833a0b3370299ba9127.png",
+    "static/media/firenode.png": "/snigdhkarki/static/media/firenode.fdd965285fc5db14582f.png",
+    "static/media/circle.png": "/snigdhkarki/static/media/circle.ba8b6f631481d8307f97.png",
+    "index.html": "/snigdhkarki/index.html",
+    "main.a9fbed36.css.map": "/snigdhkarki/static/css/main.a9fbed36.css.map",
+    "main.2cb9848b.js.map": "/snigdhkarki/static/js/main.2cb9848b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9fbed36.css",
+    "static/js/main.2cb9848b.js"
+  ]
+}
